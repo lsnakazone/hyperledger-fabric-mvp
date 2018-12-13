@@ -2,3 +2,4 @@
 Hyperledger Fabric and Hyperledger Composer MVP on Mainframe running on multiple machines.
 
 ## Architecture
+![Flow Diagram](images/architecture.png)
